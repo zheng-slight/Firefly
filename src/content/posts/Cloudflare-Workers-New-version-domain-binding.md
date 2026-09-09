@@ -3,7 +3,7 @@ title: Cloudflare Workers 新版本域名绑定
 published: 2026-09-09
 description: 告别复杂教程，新版本其实只需要一步
 image: ./images/domainshouldbing.jpg
-tags: [Markdown, 个人博客，域名]
+tags: [Markdown, 个人博客, 域名]
 category: 技术教程
 draft: false
 ---
@@ -73,7 +73,7 @@ draft: false
 2.  你已经将域名的 **DNS 服务器（NS 记录）** 托管在 Cloudflare 上。
 
 ### Step 1: 进入 DNS 设置
-登录 Cloudflare 控制台，在左侧菜单中选择你的域名 `musensen.cn`，然后点击 **DNS** > **记录**。
+登录 Cloudflare 控制台，在左侧菜单中选择你的域名 例如：`musensen.cn`，然后点击 **DNS** > **记录**。
 
 ### Step 2: 添加 Worker 记录
 1.  点击 **添加记录** 按钮。
