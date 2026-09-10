@@ -2,7 +2,7 @@
 title: Cloudflare Workers 新版本域名绑定
 published: 2026-09-09
 description: 告别复杂教程，新版本其实只需要一步
-image: ./images/domainshouldbing.jpg
+image: ./domainshouldbing.avif
 tags: [Markdown, 个人博客, 域名]
 category: 技术教程
 draft: false

@@ -15,7 +15,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	mode: "local",
 
 	// 默认音量 (0-1)
-	volume: 0.7,
+	volume: 0.1,
 
 	// 播放模式：'list'=列表循环, 'one'=单曲循环, 'random'=随机播放
 	playMode: "one",
@@ -53,8 +53,8 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 			{
 				name: "赴新春",
 				artist: "UM",
-				url: "/assets/music/赴新春 - UM.mp3",
-				cover: "/assets/music/cover/赴新春 - UM.avif",
+				url: "/assets/music/赴新春.mp3",
+				cover: "/assets/music/cover/赴新春.avif",
 				//lrc: "/assets/music/lrc/赴新春 - UM.lrc",
 			},
 		],
