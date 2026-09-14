@@ -1,5 +1,5 @@
 ---
-title: [Go 新手向] 手把手带你写一个 JWT 签发功能
+title: 手把手带你写一个 JWT 签发功能（Go 新手向）
 published: 2026-09-14
 description: 从零到跑通，10 分钟搞懂 JWT 的签发与验证
 tags: [Go, Golang, JWT, 身份认证, 新手教程]
